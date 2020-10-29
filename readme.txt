@@ -17,3 +17,4 @@ git pull
 git config --global user.email "Ваш емайл"
 git config --global user.name "Ваш Имя"
 
+Домашняя работа
